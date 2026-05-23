@@ -51,13 +51,15 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syukri1995&show_icons=true&theme=radical&hide_border=true&count_private=true)
+**Primary Languages:** Python • TypeScript • JavaScript • Java
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syukri1995&theme=radical&hide_border=true&layout=compact)
+**Total Repositories:** 15+
+
+**Focus Areas:** Full Stack Development • AI/ML • Security Systems
 
 </div>
 
@@ -77,28 +79,11 @@ AI-powered fraud detection system leveraging machine learning to identify and pr
 - **Key Features:** Intelligent threat detection, pattern recognition, real-time analysis
 - **[View Repository →](https://github.com/syukri1995/ScamShieldAI)**
 
----
-
-## 📈 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syukri1995&theme=radical&hide_border=true)](https://github.com/syukri1995)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syukri-shamsudin-361201172/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SyukTetsunaga)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=firefox&logoColor=white)](https://syukri.my)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syukridinup@gmail.com)
-
-</div>
+### 📊 Other Notable Projects
+- **EDA App** - Machine Learning data analysis application
+- **Student Marks Predictor** - ML-based academic performance prediction
+- **CNN Image Processing** - Deep learning for image classification
+- **SISPAA Intelligent** - Intelligent system development
 
 ---
 
@@ -121,6 +106,19 @@ AI-powered fraud detection system leveraging machine learning to identify and pr
 ✅ Database design and optimization  
 ✅ Fraud detection & security systems  
 ✅ DevOps and deployment automation  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syukri-shamsudin-361201172/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SyukTetsunaga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=firefox&logoColor=white)](https://syukri.my)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syukridinup@gmail.com)
+
+</div>
 
 ---
 
