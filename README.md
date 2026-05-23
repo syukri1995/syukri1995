@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <!-- Gradient Header -->
+  <!-- Gradient Header with Purple Fire -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 
 </div>
@@ -123,9 +123,13 @@ AI-powered fraud detection system leveraging machine learning to identify and pr
 ---
 
 <div align="center">
-  
-  ### ⭐ If you find my work interesting, consider giving my repositories a star!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=syukri1995&style=flat-square&color=9D4EDD)
+
+![Top Border](https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=100&section=header&text=Let's%20Build%20Together&fontSize=40&fontColor=fff&animation=fadeIn)
+
+### ⭐ If you find my work interesting, consider giving my repositories a star!
+
+![Profile Views](https://komarev.com/ghpvc/?username=syukri1995&style=flat-square&color=9D4EDD)
+
+![Bottom Border](https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn)
 
 </div>
