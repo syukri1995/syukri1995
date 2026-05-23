@@ -14,7 +14,7 @@
 I'm a passionate developer dedicated to creating elegant solutions to complex problems. With a focus on clean code, scalability, and user experience, I build applications that make an impact.
 
 - 💻 Full Stack Development
-- 🚀 Cloud & DevOps
+- 🚀 AI/ML Solutions & Security
 - 🎨 UI/UX Design
 - 📚 Continuous Learning
 
@@ -32,7 +32,7 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Databases
@@ -45,6 +45,7 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -54,11 +55,15 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syukri1995&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=9D4EDD&icon_color=9D4EDD)](https://github.com/syukri1995)
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/syukri1995">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syukri1995&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D0D0D&text_color=9D4EDD&icon_color=9D4EDD&title_color=9D4EDD" alt="Syukri's GitHub Stats"/>
+  </a>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syukri1995&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=9D4EDD)](https://github.com/syukri1995)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syukri1995&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=9D4EDD&sideNums=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=858585)](https://github.com/syukri1995)
+  <!-- Top Languages Card -->
+  <a href="https://github.com/syukri1995">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syukri1995&layout=compact&langs_count=7&theme=midnight-purple&hide_border=false&bg_color=0D0D0D&text_color=9D4EDD&title_color=9D4EDD" alt="Top Languages"/>
+  </a>
 
 </div>
 
@@ -66,25 +71,25 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 
 ## 🚀 Featured Projects
 
-### [Project Name 1]
-Brief description of your most impressive project.
-- **Tech Stack:** Technologies used
-- **Key Features:** Main highlights
-- **[View Repository →]**
+### 🔌 SISPAA ROUTER
+Intelligent routing system with Next.js frontend and advanced network optimization.
+- **Tech Stack:** TypeScript, Next.js, Node.js, React
+- **Key Features:** Real-time routing, performance optimization, responsive UI
+- **[View Repository →](https://github.com/syukri1995/sispaa-router)**
 
-### [Project Name 2]
-Another highlight project with real-world impact.
-- **Tech Stack:** Technologies used
-- **Key Features:** Main highlights
-- **[View Repository →]**
+### 🛡️ SCAMSHIELD AI
+AI-powered fraud detection system leveraging machine learning to identify and prevent scams.
+- **Tech Stack:** Python, Machine Learning, AI/ML, Data Analysis
+- **Key Features:** Intelligent threat detection, pattern recognition, real-time analysis
+- **[View Repository →](https://github.com/syukri1995/ScamShieldAI)**
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity & Contributions
 
 <div align="center">
-  
-  [![Contributions](https://activity-graph.herokuapp.com/graph?username=syukri1995&theme=github-dark&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=9D4EDD&area_color=9D4EDD&custom_title=GitHub%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syukri1995&theme=midnight-purple&hide_border=false&background=0D0D0D&stroke=9D4EDD&ring=9D4EDD&fire=FF006E&currStreakNum=9D4EDD&sideNums=9D4EDD)
 
 </div>
 
@@ -94,21 +99,34 @@ Another highlight project with real-world impact.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syukri-shamsudin-361201172/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SyukTetsunaga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=firefox&logoColor=white)](https://syukri.my)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syukridinup@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Quick Facts
+## 💡 What I'm Working On
 
-- 🎓 Always learning and improving my craft
-- 🤝 Open to collaboration and mentoring
-- 🎯 Focused on building impactful solutions
-- ⚡ Quick learner with strong problem-solving skills
+- 🔍 Building intelligent AI/ML solutions for security & fraud detection
+- 🚀 Full-stack web applications with modern frameworks
+- 🎯 System design & scalable architecture patterns
+- 📚 Contributing to open-source projects
+- 🤖 Exploring advanced machine learning techniques
+
+---
+
+## 🎓 Technical Skills
+
+✅ Full-stack web development  
+✅ AI/ML model development & optimization  
+✅ RESTful API design and development  
+✅ Real-time data processing & analysis  
+✅ Database design and optimization  
+✅ Fraud detection & security systems  
+✅ DevOps and deployment automation  
 
 ---
 
@@ -116,6 +134,6 @@ Another highlight project with real-world impact.
   
   ### ⭐ If you find my work interesting, consider giving my repositories a star!
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn&customColorList=9D4EDD)
+  ![Profile Views](https://komarev.com/ghpvc/?username=syukri1995&style=flat-square&color=9D4EDD)
 
 </div>
