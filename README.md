@@ -51,19 +51,13 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/syukri1995">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syukri1995&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D0D0D&text_color=9D4EDD&icon_color=9D4EDD&title_color=9D4EDD" alt="Syukri's GitHub Stats"/>
-  </a>
-  
-  <!-- Top Languages Card -->
-  <a href="https://github.com/syukri1995">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syukri1995&layout=compact&langs_count=7&theme=midnight-purple&hide_border=false&bg_color=0D0D0D&text_color=9D4EDD&title_color=9D4EDD" alt="Top Languages"/>
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syukri1995&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syukri1995&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
@@ -85,11 +79,11 @@ AI-powered fraud detection system leveraging machine learning to identify and pr
 
 ---
 
-## 📈 Activity & Contributions
+## 📈 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syukri1995&theme=midnight-purple&hide_border=false&background=0D0D0D&stroke=9D4EDD&ring=9D4EDD&fire=FF006E&currStreakNum=9D4EDD&sideNums=9D4EDD)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syukri1995&theme=radical&hide_border=true)](https://github.com/syukri1995)
 
 </div>
 
