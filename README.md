@@ -18,7 +18,7 @@
   <br/>
   
   <!-- 🎯 ANIMATED HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Solutions;Security+Expert" alt="Syukri Shamsudin - Developer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Developer;AI%2FML+Solutions;Web+Developer" alt="Syukri Shamsudin - Developer" width="100%"/>
   
   <br/>
   
